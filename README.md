@@ -98,7 +98,10 @@ Submitted to ICWITE 2026 (IEEE Bangalore)
 ## Authors
 
 - Varsha Tolani  
-- [Co-authors]
+- Dr. Jahnavi S
+- Tanisha
+- Smaya Maben
+- Suniksha Priya
 
 ---
 
